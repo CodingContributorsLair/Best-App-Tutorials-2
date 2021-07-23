@@ -23,7 +23,7 @@
 | [Stopwatch](https://codepen.io/cathydutton/pen/GBcvo)                             | You can make a stopwatch, which can use your local storage to save your laps - it is easier that you think! |
 | [Weight Converter](https://www.w3schools.com/howto/howto_js_weight_converter.asp) | Using the famous W3 Schools, make simple weight converters!                                                 |
 | [Tip Calculator](https://codepen.io/voula12/pen/djrZGw?editors=0010)              | Super and easy, you can make this in 10 minutes!!!                                                          |
-|  [TicTacToe App](https://reactjs.org/tutorial/tutorial.html)                      | Simple app to make which is easy to understand and use react to make a game!                                      
+|  [TicTacToe App](https://reactjs.org/tutorial/tutorial.html)                      | Simple app to make which is easy to understand and use react to make a game!    |                                   
 ## Apps for those a little bit more experienced...
 
 | Link                                                                    | Description                                 |
