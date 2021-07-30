@@ -35,6 +35,7 @@
 | [Matching Game](https://codepen.io/cathydutton/pen/avYKeM?editors=1010) | A matching game, with a time.               |
 | [To Do List](https://codepen.io/sagar27/pen/MoBoKP?editors=0010)        | Add all your todos in your own todo app!    |
 | [BMI App](https://codepen.io/beale2017/pen/JjdXVqw?editors=0010)        | Make a Body Mass Index app!                 |
+| [Easy Typewriter effect](https://youtu.be/w1nhwUGsG6M)                               | An easy typewriter animation tutorial                     |
 
 ## Hard Apps to Make:
 
