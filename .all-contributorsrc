@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Programmer005",
+      "name": "Piyush Panchal ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77259664?v=4",
+      "profile": "https://piyush-008.netlify.app/",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Best-App-Tutorials-2",
+  "projectOwner": "CodingContributorsLair",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
